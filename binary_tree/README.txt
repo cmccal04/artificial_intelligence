@@ -32,7 +32,7 @@ Files I updated:
               behavior tree.
 
 Overview:
-    The program begins by asking the user to set the golbal variables, including 
+    The program begins by asking the user to set the global variables, including 
     the battery level, cleaning mode, number of cleans, and if there is a dusty spot.
     The program then asks the user how many times the main loop should be run.
     The main loop of the program begins with a notification of the battery level, 
